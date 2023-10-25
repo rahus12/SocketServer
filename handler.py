@@ -9,6 +9,7 @@ from ContentType import Type
 import os
 import logging
 from datetime import datetime
+from Logger import Logger
 
 class Handler:
     def getFilePath(request,document_root):
@@ -27,7 +28,8 @@ class Handler:
                 
     def handle_client(client_socket,document_root):
         try:
-            request = client_socket.recv(2048)            
+            request = client_socket.recv(2048)
+            Logger.log("log.txt",request.decode())            
             header = Type.setHeader(request)
             content_type = Type.getContentType(request)            
             
@@ -46,7 +48,9 @@ class Handler:
                     response += message
                     response = response.encode()
                 
-                # Code 403 - Forbiden request -- simple example - if url has "/login" then it gives bad request 
+                # Code 403 - Forbiden request -- simple example - if url has "/login" then it gives bad request
+                # Logic behind this is not correct and is used for demo only !!
+                # actual logic given below
                 elif file1.find("login"):
                     message = "<html><body><h1>403 Forbiden Request</h1></body></html>"                             
                     response = "HTTP/1.1 403 Forbiden Request\r\n"
@@ -68,7 +72,18 @@ class Handler:
                     response += message
                     response = response.encode()
 
-            
+            # 400 forbiden request Actual logic
+            # If file is not Readable then give 400 error
+            elif not os.access(file1,os.R_OK):
+                message = "<html><body><h1>403 Forbiden Request</h1></body></html>"                             
+                response = "HTTP/1.1 403 Forbiden Request\r\n"
+                response += "Content-Type: text/html\r\n"
+                response += f"Date: {datetime.now().isoformat()}\r\n"
+                response += f"Content-Length: {str(len(message))}\r\n"
+                response += "\r\n"
+                response += message
+                response = response.encode()
+
             # 200 - OK code
             else:            
                 with open(file1, "rb") as file:
@@ -85,7 +100,7 @@ class Handler:
 
         except Exception as e:
             # logging.error(str(e))
-            # print(f"Error handling client: {str(e)}")
+            print(f"Error handling client: {str(e)}")
             pass
             
         finally:            

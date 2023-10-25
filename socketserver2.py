@@ -16,7 +16,7 @@ def main():
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--document_root",type=str,help="your document root")
-    parser.add_argument("--port",help="port number")
+    parser.add_argument("--port",type=int,help="port number")
 
     args = parser.parse_args()
 
