@@ -1,0 +1,2015 @@
+2023-10-24 18:17:06,159 - INFO - 2023-10-24 18:17:06 - GET / HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:06,392 - INFO - 2023-10-24 18:17:06 - GET /index_files/gzb1rhy.css HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:06,565 - INFO - 2023-10-24 18:17:06 - GET /index_files/all.css HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+Origin: http://localhost:8083
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:06,568 - INFO - 2023-10-24 18:17:06 - GET /index_files/scu.css HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:06,575 - INFO - 2023-10-24 18:17:06 - GET /index_files/f.css HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:06,576 - INFO - 2023-10-24 18:17:06 - GET /index_files/_livewhale_theme_global_styles_widgets.css HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:06,580 - INFO - 2023-10-24 18:17:06 - GET /index_files/scu.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:06,707 - INFO - 2023-10-24 18:17:06 - GET /index_files/livewhale_c0aa4dcbe0df4284fa0271812588dfe3.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:06,873 - INFO - 2023-10-24 18:17:06 - GET /index_files/instant-notification.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:06,888 - INFO - 2023-10-24 18:17:06 - GET /media/institutional-pages/news-amp-events/MissionWeekFeature_AlisonBenders_1160x733-1160x733.png HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:06,890 - INFO - 2023-10-24 18:17:06 - GET /media/institutional-pages/news-amp-events/Baumgartner-760x480-1160x732.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:07,027 - INFO - 2023-10-24 18:17:07 - GET /media/institutional-pages/news-amp-events/Buenrostro_2023_760x480jpg-760x480.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:07,027 - INFO - 2023-10-24 18:17:07 - GET /media/institutional-pages/news-amp-events/760-MA15_Fountain__5_15_068-1000x632.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:07,028 - INFO - 2023-10-24 18:17:07 - GET /media/institutional-pages/news-amp-events/simone-savoldi-mJDuO7CzO74-unsplash-760x480.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:07,194 - INFO - 2023-10-24 18:17:07 - GET /index_files/lwcw.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:07,194 - INFO - 2023-10-24 18:17:07 - GET /index_files/lazyloading.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:07,195 - INFO - 2023-10-24 18:17:07 - GET /index_files/preloading.css HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:07,336 - INFO - 2023-10-24 18:17:07 - GET /webfonts/fa-regular-400.woff2 HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+Origin: http://localhost:8083
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: http://localhost:8083/index_files/all.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:07,336 - INFO - 2023-10-24 18:17:07 - GET /webfonts/fa-solid-900.woff2 HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+Origin: http://localhost:8083
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: http://localhost:8083/index_files/all.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:07,336 - INFO - 2023-10-24 18:17:07 - GET /index_files/1007751472.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0
+
+
+2023-10-24 18:17:07,500 - INFO - 2023-10-24 18:17:07 - GET /index_files/774704742.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0
+
+
+2023-10-24 18:17:07,503 - INFO - 2023-10-24 18:17:07 - GET /index_files/774724639.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0
+
+
+2023-10-24 18:17:07,504 - INFO - 2023-10-24 18:17:07 - GET /index_files/823557277.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0
+
+
+2023-10-24 18:17:07,641 - INFO - 2023-10-24 18:17:07 - GET /index_files/10854693025.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0
+
+
+2023-10-24 18:17:07,642 - INFO - 2023-10-24 18:17:07 - GET /index_files/609137898.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0
+
+
+2023-10-24 18:17:07,644 - INFO - 2023-10-24 18:17:07 - GET /index_files/609137898(1).html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0
+
+
+2023-10-24 18:17:07,819 - INFO - 2023-10-24 18:17:07 - GET /index_files/activityi.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0
+
+
+2023-10-24 18:17:07,820 - INFO - 2023-10-24 18:17:07 - GET /index_files/activityi(1).html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0
+
+
+2023-10-24 18:17:07,821 - INFO - 2023-10-24 18:17:07 - GET /index_files/618554253.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0
+
+
+2023-10-24 18:17:07,958 - INFO - 2023-10-24 18:17:07 - GET /webfonts/fa-regular-400.woff HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+Origin: http://localhost:8083
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: http://localhost:8083/index_files/all.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1
+
+
+2023-10-24 18:17:07,959 - INFO - 2023-10-24 18:17:07 - GET /index_files/dc_pre=CIKq4YOfjYIDFY86RAgdIaEGeg.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/index_files/activityi.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:07,959 - INFO - 2023-10-24 18:17:07 - GET /webfonts/fa-solid-900.woff HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+Origin: http://localhost:8083
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: http://localhost:8083/index_files/all.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1
+
+
+2023-10-24 18:17:08,139 - INFO - 2023-10-24 18:17:08 - GET /webfonts/fa-regular-400.ttf HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+Origin: http://localhost:8083
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: http://localhost:8083/index_files/all.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:08,143 - INFO - 2023-10-24 18:17:08 - GET /webfonts/fa-solid-900.ttf HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+Origin: http://localhost:8083
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: http://localhost:8083/index_files/all.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:08,146 - INFO - 2023-10-24 18:17:08 - GET /index_files/insight.old.min.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:08,273 - INFO - 2023-10-24 18:17:08 - GET /index_files/insight.min.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:08,273 - INFO - 2023-10-24 18:17:08 - GET /index_files/fbevents.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:08,274 - INFO - 2023-10-24 18:17:08 - GET /index_files/js HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:08,464 - INFO - 2023-10-24 18:17:08 - GET /index_files/analytics.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:08,470 - INFO - 2023-10-24 18:17:08 - GET /index_files/js(1) HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.0.1698196515.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.0.1698196573.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.0.1698196573.0.0.0
+
+
+2023-10-24 18:17:08,476 - INFO - 2023-10-24 18:17:08 - GET /index_files/js(2) HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:08,586 - INFO - 2023-10-24 18:17:08 - GET /index_files/gtm.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:08,590 - INFO - 2023-10-24 18:17:08 - GET /index_files/f.txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:08,592 - INFO - 2023-10-24 18:17:08 - GET /index_files/f(1).txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:08,790 - INFO - 2023-10-24 18:17:08 - GET /index_files/f(2).txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:08,791 - INFO - 2023-10-24 18:17:08 - GET /index_files/f(3).txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:08,793 - INFO - 2023-10-24 18:17:08 - GET /index_files/f(4).txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:08,915 - INFO - 2023-10-24 18:17:08 - GET /index_files/f(5).txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Attribution-Reporting-Eligible: event-source, trigger=navigation-source
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:08,917 - INFO - 2023-10-24 18:17:08 - GET /index_files/f(6).txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:08,919 - INFO - 2023-10-24 18:17:08 - GET /index_files/f(7).txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Attribution-Reporting-Eligible: trigger=navigation-source, event-source
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:09,116 - INFO - 2023-10-24 18:17:09 - GET /index_files/btp.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:09,118 - INFO - 2023-10-24 18:17:09 - GET /media/institutional-pages/news-amp-events/pink-car-760x480.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:09,122 - INFO - 2023-10-24 18:17:09 - GET /media/institutional-pages/news-amp-events/bestmag-760x480-760x480.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:09,238 - INFO - 2023-10-24 18:17:09 - GET /index_files/campaign-banner.png HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:09,240 - INFO - 2023-10-24 18:17:09 - GET /media/offices/umc/web-design/crowd-pic-NEW_0001_20211203_Soccer_Fans_4446.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:09,241 - INFO - 2023-10-24 18:17:09 - GET /media/institutional-pages/news-amp-events/Reverend-agbonkhianemeghe-e.-orobator-2.png HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:09,443 - INFO - 2023-10-24 18:17:09 - GET /media/institutional-pages/news-amp-events/Morgan-Danielle-Fuentes-Headshot-Photo-400x400.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:17:09,444 - INFO - 2023-10-24 18:17:09 - GET /media/institutional-pages/news-amp-events/brian-green-400.png HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196627.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196627.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0
+
+
+2023-10-24 18:18:41,027 - INFO - 2023-10-24 18:18:41 - GET / HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:41,282 - INFO - 2023-10-24 18:18:41 - GET /index_files/gzb1rhy.css HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:41,441 - INFO - 2023-10-24 18:18:41 - GET /index_files/all.css HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+Origin: http://localhost:8083
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:41,443 - INFO - 2023-10-24 18:18:41 - GET /index_files/f.css HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:41,444 - INFO - 2023-10-24 18:18:41 - GET /index_files/scu.css HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:41,533 - INFO - 2023-10-24 18:18:41 - GET /index_files/_livewhale_theme_global_styles_widgets.css HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:41,540 - INFO - 2023-10-24 18:18:41 - GET /index_files/scu.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:41,591 - INFO - 2023-10-24 18:18:41 - GET /index_files/livewhale_c0aa4dcbe0df4284fa0271812588dfe3.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:41,757 - INFO - 2023-10-24 18:18:41 - GET /index_files/instant-notification.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:41,761 - INFO - 2023-10-24 18:18:41 - GET /media/institutional-pages/news-amp-events/MissionWeekFeature_AlisonBenders_1160x733-1160x733.png HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:41,782 - INFO - 2023-10-24 18:18:41 - GET /media/institutional-pages/news-amp-events/Baumgartner-760x480-1160x732.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:41,952 - INFO - 2023-10-24 18:18:41 - GET /media/institutional-pages/news-amp-events/Buenrostro_2023_760x480jpg-760x480.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:41,953 - INFO - 2023-10-24 18:18:41 - GET /media/institutional-pages/news-amp-events/760-MA15_Fountain__5_15_068-1000x632.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:41,953 - INFO - 2023-10-24 18:18:41 - GET /media/institutional-pages/news-amp-events/simone-savoldi-mJDuO7CzO74-unsplash-760x480.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,071 - INFO - 2023-10-24 18:18:42 - GET /index_files/lwcw.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,071 - INFO - 2023-10-24 18:18:42 - GET /index_files/lazyloading.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,089 - INFO - 2023-10-24 18:18:42 - GET /index_files/preloading.css HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,260 - INFO - 2023-10-24 18:18:42 - GET /webfonts/fa-solid-900.woff2 HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+Origin: http://localhost:8083
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: http://localhost:8083/index_files/all.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,261 - INFO - 2023-10-24 18:18:42 - GET /webfonts/fa-regular-400.woff2 HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+Origin: http://localhost:8083
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: http://localhost:8083/index_files/all.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,261 - INFO - 2023-10-24 18:18:42 - GET /index_files/1007751472.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,376 - INFO - 2023-10-24 18:18:42 - GET /index_files/774724639.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,376 - INFO - 2023-10-24 18:18:42 - GET /index_files/774704742.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,395 - INFO - 2023-10-24 18:18:42 - GET /index_files/823557277.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,566 - INFO - 2023-10-24 18:18:42 - GET /index_files/10854693025.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,566 - INFO - 2023-10-24 18:18:42 - GET /index_files/609137898.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,568 - INFO - 2023-10-24 18:18:42 - GET /index_files/609137898(1).html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,691 - INFO - 2023-10-24 18:18:42 - GET /index_files/activityi.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,691 - INFO - 2023-10-24 18:18:42 - GET /index_files/activityi(1).html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,701 - INFO - 2023-10-24 18:18:42 - GET /index_files/618554253.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,873 - INFO - 2023-10-24 18:18:42 - GET /webfonts/fa-regular-400.woff HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+Origin: http://localhost:8083
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: http://localhost:8083/index_files/all.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,873 - INFO - 2023-10-24 18:18:42 - GET /webfonts/fa-solid-900.woff HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+Origin: http://localhost:8083
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: http://localhost:8083/index_files/all.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:42,874 - INFO - 2023-10-24 18:18:42 - GET /index_files/dc_pre=CIKq4YOfjYIDFY86RAgdIaEGeg.html HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://localhost:8083/index_files/activityi.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1
+
+
+2023-10-24 18:18:42,999 - INFO - 2023-10-24 18:18:42 - GET /webfonts/fa-regular-400.ttf HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+Origin: http://localhost:8083
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: http://localhost:8083/index_files/all.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:43,000 - INFO - 2023-10-24 18:18:43 - GET /webfonts/fa-solid-900.ttf HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+Origin: http://localhost:8083
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: http://localhost:8083/index_files/all.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:43,015 - INFO - 2023-10-24 18:18:43 - GET /index_files/insight.old.min.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:43,195 - INFO - 2023-10-24 18:18:43 - GET /index_files/insight.min.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:43,196 - INFO - 2023-10-24 18:18:43 - GET /index_files/js HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:43,197 - INFO - 2023-10-24 18:18:43 - GET /index_files/fbevents.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:43,319 - INFO - 2023-10-24 18:18:43 - GET /index_files/analytics.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:43,320 - INFO - 2023-10-24 18:18:43 - GET /index_files/js(1) HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196627.60.0.0; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196637.0.0.0; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196637.0.0.0
+
+
+2023-10-24 18:18:43,331 - INFO - 2023-10-24 18:18:43 - GET /index_files/js(2) HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:43,519 - INFO - 2023-10-24 18:18:43 - GET /index_files/gtm.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:43,520 - INFO - 2023-10-24 18:18:43 - GET /index_files/f.txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:43,524 - INFO - 2023-10-24 18:18:43 - GET /index_files/f(1).txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:43,645 - INFO - 2023-10-24 18:18:43 - GET /index_files/f(2).txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:43,646 - INFO - 2023-10-24 18:18:43 - GET /index_files/f(3).txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:43,650 - INFO - 2023-10-24 18:18:43 - GET /index_files/f(4).txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:43,850 - INFO - 2023-10-24 18:18:43 - GET /index_files/f(5).txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Attribution-Reporting-Eligible: trigger, event-source
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:43,854 - INFO - 2023-10-24 18:18:43 - GET /index_files/f(6).txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:43,855 - INFO - 2023-10-24 18:18:43 - GET /index_files/f(7).txt HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Attribution-Reporting-Eligible: event-source, trigger, not-navigation-source
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:43,968 - INFO - 2023-10-24 18:18:43 - GET /index_files/btp.js.download HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:43,969 - INFO - 2023-10-24 18:18:43 - GET /media/institutional-pages/news-amp-events/bestmag-760x480-760x480.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:43,970 - INFO - 2023-10-24 18:18:43 - GET /media/institutional-pages/news-amp-events/pink-car-760x480.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:44,174 - INFO - 2023-10-24 18:18:44 - GET /index_files/campaign-banner.png HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:44,177 - INFO - 2023-10-24 18:18:44 - GET /media/offices/umc/web-design/crowd-pic-NEW_0001_20211203_Soccer_Fans_4446.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:44,179 - INFO - 2023-10-24 18:18:44 - GET /media/institutional-pages/news-amp-events/Reverend-agbonkhianemeghe-e.-orobator-2.png HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:44,283 - INFO - 2023-10-24 18:18:44 - GET /media/institutional-pages/news-amp-events/Morgan-Danielle-Fuentes-Headshot-Photo-400x400.jpg HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
+2023-10-24 18:18:44,284 - INFO - 2023-10-24 18:18:44 - GET /media/institutional-pages/news-amp-events/brian-green-400.png HTTP/1.1
+Host: localhost:8083
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8083/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _gcl_au=1.1.205474557.1698196514; _ga=GA1.1.547266641.1698196515; _gid=GA1.1.1663409073.1698196515; _ga_KPFG4EBS18=GS1.1.1698196514.1.1.1698196722.0.0.0; _gat_UA-246576-1=1; _gat_UA-1243008-2=1; _gat_UA-827082-1=1; _ga_KPMH5WPMCC=GS1.1.1698196514.1.1.1698196722.0.0.0; _ga_EKH5KHPRBH=GS1.1.1698196515.1.1.1698196722.60.0.0
+
+
